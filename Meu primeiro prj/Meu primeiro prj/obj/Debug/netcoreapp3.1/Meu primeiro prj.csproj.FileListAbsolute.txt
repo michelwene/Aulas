@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.exe
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.deps.json
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.runtimeconfig.json
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.dll
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\bin\Debug\netcoreapp3.1\Meu primeiro prj.pdb
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.dll
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.pdb
+C:\Users\Usuario\source\repos\Meu primeiro prj\Meu primeiro prj\obj\Debug\netcoreapp3.1\Meu primeiro prj.genruntimeconfig.cache
